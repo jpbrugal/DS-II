@@ -1,0 +1,26 @@
+/Users/jeanbrugal/Documents/DESAROLO II/primera/bin/Debug/netcoreapp3.1/primera.deps.json
+/Users/jeanbrugal/Documents/DESAROLO II/primera/bin/Debug/netcoreapp3.1/primera.runtimeconfig.json
+/Users/jeanbrugal/Documents/DESAROLO II/primera/bin/Debug/netcoreapp3.1/primera.runtimeconfig.dev.json
+/Users/jeanbrugal/Documents/DESAROLO II/primera/bin/Debug/netcoreapp3.1/primera.dll
+/Users/jeanbrugal/Documents/DESAROLO II/primera/bin/Debug/netcoreapp3.1/primera.pdb
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.csproj.AssemblyReference.cache
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.AssemblyInfoInputs.cache
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.AssemblyInfo.cs
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.csproj.CoreCompileInputs.cache
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.dll
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.pdb
+/Users/jeanbrugal/Documents/DESAROLO II/primera/obj/Debug/netcoreapp3.1/primera.genruntimeconfig.cache
+/Users/jeanbrugal/Documents/Calculadora/bin/Debug/netcoreapp3.1/primera.deps.json
+/Users/jeanbrugal/Documents/Calculadora/bin/Debug/netcoreapp3.1/primera.runtimeconfig.json
+/Users/jeanbrugal/Documents/Calculadora/bin/Debug/netcoreapp3.1/primera.runtimeconfig.dev.json
+/Users/jeanbrugal/Documents/Calculadora/bin/Debug/netcoreapp3.1/primera.dll
+/Users/jeanbrugal/Documents/Calculadora/bin/Debug/netcoreapp3.1/primera.pdb
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.csproj.AssemblyReference.cache
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.AssemblyInfoInputs.cache
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.AssemblyInfo.cs
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.csproj.CoreCompileInputs.cache
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.dll
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.pdb
+/Users/jeanbrugal/Documents/Calculadora/obj/Debug/netcoreapp3.1/primera.genruntimeconfig.cache
